@@ -1,0 +1,17 @@
+{
+  "name": "doctor-booking-backend",
+  "version": "1.0.0",
+  "description": "json server for docter booking app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "safvan"
+  ],
+  "author": "safvan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
